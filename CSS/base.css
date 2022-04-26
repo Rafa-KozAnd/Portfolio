@@ -1,0 +1,73 @@
+/* Code CSS */
+
+body {
+    background-color: #111111 !important;
+}
+
+.def_bar {
+    background-color: #252525 !important;
+    position: fixed !important;
+    width: 100%;
+    border-style: solid;
+    border-color: #808080;
+}
+
+.name_color_bar {
+    color: #00ffff !important;
+}
+
+.new_background {
+    background-color: #111111 !important;
+}
+
+.pic_profile1 {
+    height: 250px;
+    width: auto;
+    max-width: 250px;
+    margin: 0 4px;
+    margin-top: 75px;
+    border-style: double;
+    border-color: #00ffff;
+}
+
+.pic_profile2 {
+    height: 350px;
+    width: auto;
+    max-width: 350px;
+    margin: 0 4px;
+    margin-top: 75px;
+    border-style: double;
+    border-color: #00ffff;
+}
+
+.pic_profile3 {
+    height: 250px;
+    width: auto;
+    max-width: 250px;
+    margin: 0 4px;
+    margin-top: 75px;
+    border-style: double;
+    border-color: #00ffff;
+}
+
+.text_color {
+    color: #ffffff !important;
+}
+
+.icons_profile {
+    color: #00ffff;
+    font-size: 25px;
+    margin: 0 15px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a:hover, .active {
+    color:#00ffff !important;
+}
